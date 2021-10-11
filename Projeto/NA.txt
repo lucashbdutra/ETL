@@ -1,0 +1,7 @@
+Dados não informados (NA) são chamados de 'missing values.'
+
+Tambem são chamados NAN 'not a numéric' depende da biblioteca usada
+
+E no caso de uma data NAT 'not a type'
+
+Dado 'outlier' fora do range desejado, extrapola o valor permitido, em alguns casos é necessário dropar esses dados para uma finalidade de médio, etc.
